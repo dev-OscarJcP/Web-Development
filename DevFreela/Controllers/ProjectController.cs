@@ -1,4 +1,4 @@
-﻿using DevFreela.Models;
+﻿ using DevFreela.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DevFreela.Controllers

@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace DevFreela.Controllers
 {
-    [Route("{api/users}")]
+    [Route("api/users")]
     public class UsersController : ControllerBase
     {
         [HttpGet]
