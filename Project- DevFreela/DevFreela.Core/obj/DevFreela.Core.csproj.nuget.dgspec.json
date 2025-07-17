@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oscar\\Desktop\\Api\\DevFreela.Core\\DevFreela.Core.csproj": {}
+    "C:\\Users\\oscar\\Desktop\\Api\\Project- DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oscar\\Desktop\\Api\\DevFreela.Core\\DevFreela.Core.csproj": {
+    "C:\\Users\\oscar\\Desktop\\Api\\Project- DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oscar\\Desktop\\Api\\DevFreela.Core\\DevFreela.Core.csproj",
+        "projectUniqueName": "C:\\Users\\oscar\\Desktop\\Api\\Project- DevFreela\\DevFreela.Core\\DevFreela.Core.csproj",
         "projectName": "DevFreela.Core",
-        "projectPath": "C:\\Users\\oscar\\Desktop\\Api\\DevFreela.Core\\DevFreela.Core.csproj",
+        "projectPath": "C:\\Users\\oscar\\Desktop\\Api\\Project- DevFreela\\DevFreela.Core\\DevFreela.Core.csproj",
         "packagesPath": "C:\\Users\\oscar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oscar\\Desktop\\Api\\DevFreela.Core\\obj\\",
+        "outputPath": "C:\\Users\\oscar\\Desktop\\Api\\Project- DevFreela\\DevFreela.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
