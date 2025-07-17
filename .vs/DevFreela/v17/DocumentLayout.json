@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\oscar\\Desktop\\Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E033B48-8874-4F37-8249-D56FD61E8DE8}|DevFreela.Core\\DevFreela.Core.csproj|c:\\users\\oscar\\desktop\\api\\devfreela.core\\entities\\userskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E033B48-8874-4F37-8249-D56FD61E8DE8}|DevFreela.Core\\DevFreela.Core.csproj|solutionrelative:devfreela.core\\entities\\userskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5E033B48-8874-4F37-8249-D56FD61E8DE8}|DevFreela.Core\\DevFreela.Core.csproj|c:\\users\\oscar\\desktop\\api\\devfreela.core\\exceptions\\projectalreadystartedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E033B48-8874-4F37-8249-D56FD61E8DE8}|DevFreela.Core\\DevFreela.Core.csproj|solutionrelative:devfreela.core\\exceptions\\projectalreadystartedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E033B48-8874-4F37-8249-D56FD61E8DE8}|DevFreela.Core\\DevFreela.Core.csproj|c:\\users\\oscar\\desktop\\api\\devfreela.core\\entities\\userskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E033B48-8874-4F37-8249-D56FD61E8DE8}|DevFreela.Core\\DevFreela.Core.csproj|solutionrelative:devfreela.core\\entities\\userskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E033B48-8874-4F37-8249-D56FD61E8DE8}|DevFreela.Core\\DevFreela.Core.csproj|c:\\users\\oscar\\desktop\\api\\devfreela.core\\repositories\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,12 +74,11 @@
               "RelativeToolTip": "DevFreela.Core\\Repositories\\IProjectRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T07:14:48.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T07:14:48.22Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ProjectAlreadyStartedException.cs",
               "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\Api\\DevFreela.Core\\Exceptions\\ProjectAlreadyStartedException.cs",
               "RelativeDocumentMoniker": "DevFreela.Core\\Exceptions\\ProjectAlreadyStartedException.cs",
@@ -100,8 +99,7 @@
               "RelativeToolTip": "DevFreela.Core\\Entities\\Project.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAkwBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T16:57:46.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T16:57:46.372Z"
             },
             {
               "$type": "Document",
@@ -113,8 +111,7 @@
               "RelativeToolTip": "DevFreela.Core\\DevFreela.Core.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-14T16:34:27.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T16:34:27.002Z"
             },
             {
               "$type": "Document",
@@ -126,8 +123,7 @@
               "RelativeToolTip": "DevFreela.Core\\Entities\\ProjectComment.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T07:06:37.206Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T07:06:37.206Z"
             },
             {
               "$type": "Document",
@@ -139,8 +135,7 @@
               "RelativeToolTip": "DevFreela.Core\\Enums\\ProjectStatusEnum.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T07:05:02.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T07:05:02.919Z"
             },
             {
               "$type": "Document",
@@ -152,8 +147,7 @@
               "RelativeToolTip": "DevFreela.Core\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T16:42:39.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T16:42:39.929Z"
             },
             {
               "$type": "Document",
@@ -219,12 +213,11 @@
               "RelativeToolTip": "DevFreela.Core\\Entities\\Skill.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T16:39:55.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T16:39:55.52Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserSkill.cs",
               "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\Api\\DevFreela.Core\\Entities\\UserSkill.cs",
               "RelativeDocumentMoniker": "DevFreela.Core\\Entities\\UserSkill.cs",
