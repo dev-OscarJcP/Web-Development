@@ -3,8 +3,9 @@
     public class CreateCommentModel
     {
         public int IdComment { get; set; }
+        public int IdProject { get; set; }
         public string ContentComment { get; set; }
-        public string UserComment { get; set; }
+        public int IdUserComment { get; set; }
         public DateTime DateCreatedComment { get; set; }
     }
 }
